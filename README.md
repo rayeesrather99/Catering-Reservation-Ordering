@@ -98,18 +98,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 💡 **Contributions are welcome!** Feel free to fork this repository and submit pull requests.  
-
-```
-
----
-
-This **README.md** includes:
-- Project overview
-- Features (User & Admin)
-- Tech stack used
-- Setup guide
-- Project evaluation criteria
-- System modules
-- License information  
-
-Let me know if you want any modifications! 🚀
